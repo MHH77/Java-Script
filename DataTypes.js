@@ -31,3 +31,11 @@ console.log("Date:", dateType);
 console.log("RegExp:", regexType);
 console.log("Map:", mapType);
 console.log("Set:", setType);
+//----------------------------------
+console.log("------------- typeof ---------------");
+console.log(typeof 3); // Number
+console.log(typeof nullType); // Object
+console.log(typeof booleanType); // Boolean
+booleanType='ali';
+console.log(typeof booleanType); // String
+console.log(typeof undefined); // undefined
