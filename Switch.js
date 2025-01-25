@@ -2,6 +2,7 @@ let day = 3;
 
 switch (day) {
   case 1:
+  case 0:
     console.log("شنبه");
     break;
   case 2:
